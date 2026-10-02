@@ -37,7 +37,7 @@ This project analyzes sales data from Afrimart Kolly bright. revenue performance
 - Product performance varies significantly by Country.
 ---
 ## Files in Repository
-- [Sales_Dataset](AfriMart_Sales_Dataset)
+- [Sales_Dataset](AfriMart_Sales_Dataset_1.xlsx)
 - [Dashboard_Screenshot](AFRIMART_DASHBOARD.png)
 - README.md
 
