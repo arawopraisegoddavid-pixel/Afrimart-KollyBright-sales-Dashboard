@@ -1,6 +1,6 @@
 # Afrimart-KollyBright-sales-Dashboard
 
-## Project Overvie
+## Project Overview
 This project analyzes sales data from Afrimart Kolly bright. revenue performance across various countries and products were tracked using Microsoft Excel, Pivot tables and a Dashboard.
 
 ---
@@ -37,7 +37,7 @@ This project analyzes sales data from Afrimart Kolly bright. revenue performance
 - Product performance varies significantly by Country.
 ---
 ## Files in Repository
-- [Sales_Dataset](AfriMart_Sales_Dataset_1.xlsx)
+- [Sales_Dataset](AfriMart_Sales_Dataset 1.xlsx)
 - [Dashboard_Screenshot](AFRIMART_DASHBOARD.png)
 - README.md
 
